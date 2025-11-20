@@ -1,0 +1,21 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.29.0",
+  "dart.lineLength": 120,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    }
+  },
+  "cSpell.words": [
+    "dimen"
+  ]
+}
